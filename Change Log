@@ -1,0 +1,11 @@
+Version 1.0.0 Beta  
+-Removed Blue Power recipes for it's own Bluestone Gates.  
+-Tweaked recipes of Frame pusher & Frames too resemble old RP2 recipes for nostalgia reasons.  
+-Tweaked saw recipe for the Peridot Saw (formerlly Emerald saw from RP2)  
+-Tweaked Ruby, Sapphire, Peridot block recipes too output only the Project Red ones. As only they look original to RP2  
+-Removed Ore-Dictionary association with Refined Iron and Steel. (No free steel for you chums. This is original to the tekkit world)  
+-Activated the experimental Energy network code in IC2 (Please report any and all problems to me 1st)  
+-Removed Covers1726's version of PowerConverters (lethal crashing bug due to outdated API). Was replaced with another more stable version from another mod dev.  
+-Removed Enhanced Portals 3, Suffers from a broken functionality when moved by frames. (Ghost instances of the portals controller are left behind)  
+Exchanged Computer Craft for Open Computers.  
+Exchanged MFFS-Classic for Adv.Repulsion from Immibis. (MFFS-Classic uses outdated API's and may crash. Adv.Repulsion is more true to the original MFF addon for IC2)  
